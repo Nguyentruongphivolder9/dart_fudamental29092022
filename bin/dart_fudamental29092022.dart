@@ -21,7 +21,35 @@ void main(List<String> arguments) {
   // );
   // print(runes);
 
-  dynamic a = 10;
-  a = "11";
-  print(a);
+  // Khai báo biến
+  // dynamic a = 10;
+  // a = "11";
+  // print(a);
+
+  // Xử lý chuỗi
+  // String text1 = "Hello";
+  // String text2 = "Word";
+  //
+  // String output = 'Select * From '
+  //           'cache '
+  //           'Where id = 1';
+  // print(output);
+
+  // int  a = 5;
+  // int b = 5;
+  //
+  // int result = a++ - --b + b-- - a++ + --a;
+  // 5 - --b + b-- - a++ + --a
+  // 5 - 4 + b-- - a++ + --a
+  // 5 - 4 + 4 - a++ + --a
+  // 5 - 4 + 4 - 6 + --a
+  // 5 - 4 + 4 - 6 + 6
+
+  // print(
+  //       'a = $a\n'
+  //       'b = $b\n'
+  //       'result = $result\n'
+  // );
+
+
 }
